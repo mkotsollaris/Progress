@@ -1,5 +1,5 @@
 # Progress: An Image Processing Tool developed in Visual C++
-A tool in Visual C++ that implements the Fourier Transformation in order to benefit from several algorithms that run on the frequency domain.
+A tool in Visual C++ that implements the Fast Fourier Transformation in order to benefit from several algorithms that run on the frequency domain.
 
 #Tools:
 <ul>
@@ -8,8 +8,10 @@ A tool in Visual C++ that implements the Fourier Transformation in order to bene
 <li>Notch filter (structured noise removal)</li>
 </ul>
 
-##Runtime images:
+##Main UI:
 ![5](https://cloud.githubusercontent.com/assets/8595514/14111333/b1bf21ae-f5a0-11e5-908f-7973d10dedf7.png)
+
+You can view several input and output <a href="https://github.com/mkotsollaris/Progress/issues/1">here</a>.
 
 ##MIT License
 Copyright (c) 2016 Menelaos Kotsollaris
