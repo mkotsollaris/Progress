@@ -1,4 +1,4 @@
-# ImageRestorationTool
+# Progress: An Image Restoration Tool in Visual C++
 A tool in Visual C++ that implements the Fourier Transformation and several Image Processing algorithms
 
 ##Runtime images:
