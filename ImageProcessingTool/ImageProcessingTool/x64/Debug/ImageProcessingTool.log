@@ -1,0 +1,32 @@
+﻿  MyForm.cpp
+MyForm.cpp(115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+MyForm.cpp(98): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+MyForm.cpp(99): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+MyForm.cpp(42): warning C4101: 'p': unreferenced local variable
+MyForm.cpp(42): warning C4101: 'q': unreferenced local variable
+MyForm.cpp(39): warning C4101: 'ft': unreferenced local variable
+MyForm.cpp(173): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+MyForm.cpp(174): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+MyForm.cpp(143): warning C4101: 'psfa': unreferenced local variable
+MyForm.cpp(143): warning C4101: 'psf': unreferenced local variable
+MyForm.cpp(147): warning C4101: 'p': unreferenced local variable
+MyForm.cpp(147): warning C4101: 'q': unreferenced local variable
+MyForm.cpp(145): warning C4101: 'j': unreferenced local variable
+MyForm.cpp(145): warning C4101: 'i': unreferenced local variable
+c:\users\asus\documents\opencv3.1\opencv\build\include\opencv2\core\cvstd.hpp(599): warning C4793: 'cv::String::String': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\asus\documents\opencv3.1\opencv\build\include\opencv2\core\mat.inl.hpp(392): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\asus\documents\opencv3.1\opencv\build\include\opencv2\core\mat.inl.hpp(1872): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\asus\documents\opencv3.1\opencv\build\include\opencv2\core\mat.inl.hpp(3473): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\asus\documents\opencv3.1\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\asus\documents\opencv3.1\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  ImageProcessingTool.vcxproj -> C:\Users\ASUS\Documents\Visual Studio 2015\Image Processing Final Project\ImageProcessingTool\x64\Debug\ImageProcessingTool.exe
