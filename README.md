@@ -1,3 +1,5 @@
+<img src="https://cloud.githubusercontent.com/assets/8595514/14112220/3854bfdc-f5a4-11e5-8188-c7ff827acd00.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="40%" height="40%" />
+
 # Progress: An Image Processing Tool developed in Visual C++
 A tool in Visual C++ that implements the Fast Fourier Transformation in order to benefit from several algorithms that run on the frequency domain.
 
