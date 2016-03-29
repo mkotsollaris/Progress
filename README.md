@@ -1,5 +1,12 @@
-# Progress: An Image Restoration Tool in Visual C++
-A tool in Visual C++ that implements the Fourier Transformation and several Image Processing algorithms
+# Progress: An Image Processing Tool developed in Visual C++
+A tool in Visual C++ that implements the Fourier Transformation in order to benefit from several algorithms that run on the frequency domain.
+
+#Tools:
+<ul>
+<li>Blurring</li>
+<li>Restoration (Unblurring)</li>
+<li>Notch filter (structured noise removal)</li>
+</ul>
 
 ##Runtime images:
 ![5](https://cloud.githubusercontent.com/assets/8595514/14111333/b1bf21ae-f5a0-11e5-908f-7973d10dedf7.png)
