@@ -1,10 +1,8 @@
 /*
 Author: Menelaos Kotsollaris
-Email: mkotsollari@gmail.com
+Email: menelaos@mkotsollaris.com
 
 All rights reserved 2016.
-Image Processing & Computer Vision
-Dr. Yun Zhang, UNB - GGE
 */
 #pragma once
 #include <cstdlib>
@@ -249,7 +247,7 @@ namespace ImageProcessingTool {
 	private: System::Void MyForm_HelpButtonClicked(System::Object^ sender, System::ComponentModel::CancelEventArgs^  e) 
 	{
 		MessageBox::Show("Image Processing Tool Version 0.0.1. " +
-			"Developed By Menelaos Kotsollaris. Supervisors: Dr. Yun Zhang.\nAll rights reserved © 2016.",
+			"Developed By Menelaos Kotsollaris. Supervisors: Dr. Yun Zhang.\nAll rights reserved Â© 2016.",
 			"Information", MessageBoxButtons::OK, MessageBoxIcon::Information);
 	}
 private: System::Void ShowError(String^ _title_string, String^ _message_string)
